@@ -120,3 +120,31 @@
 
 }
 
+@media screen and (max-width : 767px) {
+    .card{
+        width: unset !important;
+
+    }
+    .delivery .row{
+        margin: auto;
+    }
+}
+@media screen and (max-width : 841px) and (min-width: 650px) {
+    .rating{
+        font-size: 3px;
+    }
+   .del{
+       margin: 0;
+
+   }
+   .delivery .row .col-sm-2{
+    display: contents;
+   }
+}
+@media screen and (max-width : 1024px) {
+
+    .delivery .row .col-sm-2{
+     margin: 0px 12px;
+    }
+}
+
