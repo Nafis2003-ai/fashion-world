@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.navbar .nav-item a:hover{
+    color: rgb(233, 74, 74) !important;
+
+}
+.tagline{
+    color: #565656;
+
+    font-weight: 500;
+    line-height: 0.8;
+    letter-spacing: 9.8px;
+    margin-bottom: 0;
+    text-transform: uppercase;
+}
+.banner{
+    background-image: url('../image/cover1.jpg') ;
+
+}
+.center{
+    align-items: center;
+    
+}
+.banner h1{
+    margin: 0;
+}
+.banner .btn{
+    justify-content: center;
+    align-items: center;
+
+}
+
+.fetcontent h1{
+    
+   
+    text-transform: uppercase;
+}
+.product-content h5 a{
+    text-decoration: none;
+}
+
+.banner-content{
+    margin-top: 20px;
+}
+.rating a{
+    text-decoration: none;
+    color: rgb(160, 57, 57);
+}
+.fimage{
+    margin: 0px 70px ;
+}
+.shop{
+    background-image: url('../image/cover2.jpg');
+    
+
+    
+}
+
+.shop p{
+    font-size: 1.2rem;
+}
+.sell-content h5{
+    font-size: 1.1rem;
+}
+.sell-content h5 a{
+    text-decoration: none;
+    
+}
+.sell-content i{
+    font-size: .75rem;
+}
+.sell-content p{
+    font-size: .75rem;
+}
+
+.trndcontent h5 a{
+    text-decoration: none;
+    
+}
+.trndcontent i{
+    font-size: .75rem;
+}
+.trndcontent p{
+    font-size: .75rem;
+}
+.delivery h5{
+    font-size: .938rem;
+}
+.delivery p{
+    font-size: .70rem;
+}
+.fsize{
+    font-size: 2rem;
+    
+}
+.footer{
+    background-color: rgb(240, 213, 179);
+    margin-top: 2rem;
+}
+.footer h5{
+    font-size: 1.2rem;
+    
+}
+.footer p {
+    margin-top: 0;
+    margin-bottom: .5rem;
+    font-size: 1rem;
+}
+.mr{
+    margin-top: 3rem;
+    margin-bottom: 0 !important;
+}
+.footer p:hover{
+    color: rgb(216, 22, 22);
+    cursor: pointer;
+
+}
+
